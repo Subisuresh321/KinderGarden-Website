@@ -1,2 +1,2 @@
 # KinderGarden-Website
-# Couldn't update due to Large Size. Will update soon
+# Couldn't update due to large size. Will update soon
