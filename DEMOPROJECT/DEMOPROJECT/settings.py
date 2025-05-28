@@ -127,6 +127,7 @@ STATIC_ROOT = "/home/subisuresh/KinderGarden-Website/staticfiles"
 MEDIA_URL = '/media/'
 MEDIA_ROOT = os.path.join(BASE_DIR, 'media')
 STATICFILES_DIRS = [
+    "/home/subisuresh/KinderGarden-Website/DEMOPROJECT/DEMOAPP/static",
     "/home/subisuresh/KinderGarden-Website/DEMOPROJECT/DEMOAPP/static/games/game1/web",
     "/home/subisuresh/KinderGarden-Website/DEMOPROJECT/DEMOAPP/static/games/game2/web",
     "/home/subisuresh/KinderGarden-Website/DEMOPROJECT/DEMOAPP/static/games/game3/web",
