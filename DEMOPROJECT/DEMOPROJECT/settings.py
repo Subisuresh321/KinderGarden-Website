@@ -78,10 +78,10 @@ WSGI_APPLICATION = 'DEMOPROJECT.wsgi.application'
 DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.mysql',
-        'NAME': 'kindergarden',
-        'HOST':'localhost',
-        'USER':'root',
-        'PASSWORD':'',
+        'NAME': 'subisuresh$kinder',
+        'HOST':'subisuresh.mysql.pythonanywhere-services.com',
+        'USER':'subisuresh',
+        'PASSWORD':'Subi pathiyoor',
         'PORT':'3306'
 
     }
